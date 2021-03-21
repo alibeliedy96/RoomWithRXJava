@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomWithRxJava</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="insert">insert</string>
+    <string name="get">get</string>
+</resources>
